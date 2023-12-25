@@ -1,6 +1,6 @@
 import { Question, Categories } from "../interfaces.js";
 
-export const quotes: Question[] = [
+export const questions: Question[] = [
   {
     question: "Hvad er formålet med 'map'-funktionen i JavaScript?",
     category: Categories.coding,
